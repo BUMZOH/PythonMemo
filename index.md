@@ -10,5 +10,5 @@ Chap.6 [画像処理および図形描画](./chap6_image.md)
 Chap.7 [GUI(Tkinter)](./chapp7_tkinter.md)  
 
 
-![トップページ画像](./IMG_3772.MOV)  
+<video src="./IMG_3772.MOV" controls="true" width="600"></video>
 
