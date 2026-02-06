@@ -11,6 +11,5 @@ Chap.7 [GUI(Tkinter)](./chapp7_tkinter.md)
 
 
 
-https://github.com/user-attachments/assets/eb5968f2-96b3-4b84-9554-907b7451d351
-
+![アニメ](./image/sample.gif)  
 
