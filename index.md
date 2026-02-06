@@ -10,5 +10,7 @@ Chap.6 [画像処理および図形描画](./chap6_image.md)
 Chap.7 [GUI(Tkinter)](./chapp7_tkinter.md)  
 
 
-<video src="./IMG_3772.MOV" controls="true" width="600">動画</video>
+
+https://github.com/user-attachments/assets/eb5968f2-96b3-4b84-9554-907b7451d351
+
 
